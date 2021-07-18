@@ -1,18 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace cSharpDemo
 {
-    class ExceptionsDemo
+    public class ExceptionsDemo
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a = 10, b;
             try
             {
+                Console.WriteLine("enter a number");
                 b = Int32.Parse(Console.ReadLine());
                 Console.WriteLine(a / b);
             }

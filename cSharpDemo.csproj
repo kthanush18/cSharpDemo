@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>cSharpDemo.library.TestPerson</StartupObject>
+    <StartupObject>cSharpDemo.ExceptionsDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
