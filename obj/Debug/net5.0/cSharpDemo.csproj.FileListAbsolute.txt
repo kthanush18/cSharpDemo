@@ -1,0 +1,15 @@
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\cSharpDemo.exe
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\cSharpDemo.deps.json
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\cSharpDemo.runtimeconfig.json
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\cSharpDemo.runtimeconfig.dev.json
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\cSharpDemo.dll
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\ref\cSharpDemo.dll
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\bin\Debug\net5.0\cSharpDemo.pdb
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.AssemblyInfoInputs.cache
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.AssemblyInfo.cs
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.csproj.CoreCompileInputs.cache
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.dll
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\ref\cSharpDemo.dll
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.pdb
+D:\Professional\Swathi\csharpdemo\csharpdemo\cSharpDemo\obj\Debug\net5.0\cSharpDemo.genruntimeconfig.cache
